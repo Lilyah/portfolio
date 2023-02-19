@@ -21,6 +21,9 @@
 
 ## Screenshots
 ![]()
+![index](./img/index.png)
+![projects/mariosofa](./img/project-mariosofa.png)
+
 
 
 ## Project Status

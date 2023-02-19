@@ -21,8 +21,8 @@
 
 ## Screenshots
 ![]()
-![index](./img/index.png)
-![projects/mariosofa](./img/project-mariosofa.png)
+![index](./readmeIMG/index.png)
+![projects/mariosofa](./readmeIMG/project-mariosofa.png)
 
 
 

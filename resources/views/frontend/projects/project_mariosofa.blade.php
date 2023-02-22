@@ -87,7 +87,7 @@
                     <li><i class="fas fa-angle-double-right" style="color:gray"></i><samp> Google ReCaptcha</samp></li>
                     <li><i class="fas fa-angle-double-right" style="color:gray"></i><samp> Jetstream - Liveware register system for Admin Panel</samp></li>
                     <li><i class="fas fa-angle-double-right" style="color:gray"></i><samp> ToastrJS - Pop-up messages for Admin panel</samp></li>
-                    <li><i class="fas fa-angle-double-right" style="color:gray"></i><samp> Summernote - WYSIWYG edito for Admin panel</samp></li>
+                    <li><i class="fas fa-angle-double-right" style="color:gray"></i><samp> Summernote - WYSIWYG editor for Admin panel</samp></li>
                     <li><i class="fas fa-angle-double-right" style="color:gray"></i><samp> Venobox - jQuery Plugin type Lightbox</samp></li>
                     <li><i class="fas fa-angle-double-right" style="color:gray"></i><samp> Google map integration</samp></li>
                 </ul>
@@ -104,7 +104,7 @@
                     <!-- Modal for the second image -->
                     <div class="modal fade" id="firstModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog modal-xl">
-                            <div class="modal-content">
+                            <div class="modaьl-content">
                                 <div class="modal-body">
                                     <img class="img-fluid float-xl-right float-sm-none" src="{{ asset('frontend/assets/images/mariosofa-admin1.webp') }}" alt="Mario Sofa & Bed Project Admin Panel">
                                 </div>

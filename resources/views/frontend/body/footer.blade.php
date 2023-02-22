@@ -8,5 +8,5 @@
 </footer>
 
     <div class="goto-top">
-        <a href="{{ url('/') }}"><i class="fas fa-arrow-up"></i></a>
+        <a href="#top"><i class="fas fa-arrow-up"></i></a>
     </div>  
